@@ -6,7 +6,7 @@
 * **Daniela Lujan Trejo** - [@DanielaLujanTrejo](https://github.com/DanielaLujanTrejo "@DanielaLujanTrejo") 
 * **Angel David Ricalde Che** - [@Acuablast](https://github.com/Acuablast "@JAcuablast")
 * **Ruth Betzabe Castro Acosta** - [@Ruthbcastro](https://github.com/Ruthbcastro "@Ruthbcastro")
-* **Jose Emmanuel Bacab** - [@jose130802](https://github.com/jose130802 "jose130802")
+* **Jose Emmanuel Bacab Moreno** - [@jose130802](https://github.com/jose130802 "jose130802")
 ## Descripción
 **Métodos de organización:**
 
