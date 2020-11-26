@@ -33,6 +33,5 @@ Herramienta en la que se da a conocer la importancia de la organización del tie
 
 8.[Trabajo en equipo](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Documentacion/8.%20Trabajo%20en%20equipo.md#trabajo-en-equipo "Trabajo en equipo")
 
-:Pizza:
 
 
