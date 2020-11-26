@@ -1,5 +1,4 @@
-# Trabajo en equipo
-## Metodología SCRUM 
+# Metodología SCRUM 
 
 Al estar enmarcada dentro de las metodologías agile, Scrum se basa en aspectos como: 
 1. La flexibilidad en la adopción de cambios y nuevos requisitos durante un proyecto complejo.
@@ -87,7 +86,7 @@ planning junto con el plan para poder desarrollarlas. Debe ser conocido por todo
 equipo, para asegurarse de que el foco debe estar en este grupo de tareas.
 El sprint planning no cambia durante el sprint, solo se permite cambiar el plan para poder desarrollarlas.
 
-[Atrás]()
+[Atrás](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Ibis-Carrilllo-Araujo/Calendario.md#calendario-de-actividades)
 [Índice](https://github.com/Ibis-C/Metodos-de-organizaci-n/tree/main#%C3%ADndice "íNDICE")
 [Siguiente](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Roles.md#roles-de-equipo)
 
