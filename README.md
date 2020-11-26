@@ -23,11 +23,11 @@ Herramienta en la que se da a conocer la importancia de la organización del tie
 
 3.[Requerimintos](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Documentacion/3.%20Requerimientos.md#requerimientos "Requerimentos")
 
-4.[Roles y procesos de trabajo](https://github.com/Audny738/POO_Project/blob/master/DOCUMENTACIÓN/4.%20CasosDeUso.md "Casos de uso")
+4.[Roles y procesos de trabajo]( "Casos de uso")
 
-5. [Bitácora](https://github.com/Audny738/POO_Project/blob/master/DOCUMENTACIÓN/5.%20Herramientas%20e%20investigacion.md "Herramientas e investigación")
+5. [Bitácora]( "Herramientas e investigación")
 
-6. [Objetivos generales y específicos](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/José_Emmanuel_Bacab_Moreno/Objetivos.md#objetivos-generales-y-espec%C3%ADficos "Objetivos generales y específicos")
+6. [Objetivos generales y específicos]( "Objetivos generales y específicos")
 
 7.[Datos de estudio e investigacion]
 
