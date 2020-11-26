@@ -21,7 +21,7 @@ Herramienta en la que se da a conocer la importancia de la organización del tie
 2.[Herramientas y metodos](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Documentacion/2.%20Herramientas%20y%20métodos.md#herramientas-y-métodos "Herramientas de usuario")
 
 
-3.[Requerimintos]( "Requerimentos")
+3.[Requerimintos](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Documentacion/3.%20Requerimientos.md#requerimientos "Requerimentos")
 
 4.[Roles y procesos de trabajo](https://github.com/Audny738/POO_Project/blob/master/DOCUMENTACIÓN/4.%20CasosDeUso.md "Casos de uso")
 
