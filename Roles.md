@@ -18,5 +18,5 @@ Son los encargados de realizar las tareas priorizadas por el Product Owner. Es u
 equipo multifuncional y auto-organizado.
 
 / [Atrás](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Trabajoenequipo.md#trabajo-en-equipo)
-[Índice](https://github.com/Ibis-C/Metodos-de-organizaci-n/tree/main#%C3%ADndice "íNDICE") /
+/ [Índice](https://github.com/Ibis-C/Metodos-de-organizaci-n/tree/main#%C3%ADndice "íNDICE") /
 [Siguiente]()
