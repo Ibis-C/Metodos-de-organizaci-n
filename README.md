@@ -12,14 +12,23 @@
 
 Herramienta en la que se da a conocer la importancia de la organización del tiempo, sus diferentes técnicas y como puedes implementarlas en tu día a día obteniendo un mejor desempeño. Dirigido a un nivel educativo universitario, basado en el modo presencial y modalidad en línea..
 
-# **ÍNDICE**
+## Indice
 
-- [Objetivos]
+1.[Objetivos](https://github.com/Audny738/POO_Project/blob/master/DOCUMENTACIÓN/1.%20Objetivos.md "Objetivos")
 
-- [Herramientas y métodos]
-- [Requerimientos]
-- [Roles y proceso de trabajo]
+2.[Herramientas y metodos](https://github.com/Audny738/POO_Project/blob/master/DOCUMENTACIÓN/2.%20Requerimientos.md "Requerimientos")
 
-- [Bitácora]
+3.[Requerimintos](https://github.com/Audny738/POO_Project/blob/master/DOCUMENTACIÓN/3.%20Historias%20de%20Usuario.md "Historias de usuario")
+
+4.[Roles y procesos de trabajo](https://github.com/Audny738/POO_Project/blob/master/DOCUMENTACIÓN/4.%20CasosDeUso.md "Casos de uso")
+
+5.[Bitácora](https://github.com/Audny738/POO_Project/blob/master/DOCUMENTACIÓN/5.%20Herramientas%20e%20investigacion.md "Herramientas e investigación")
+
+6.[bitacora](https://github.com/Audny738/POO_Project/blob/master/DOCUMENTACIÓN/6.%20Procesos%20y%20Roles.md "Procesos y Roles")
+
+7.[Datos de estudio e investigacion]
+
+8.[Competencias]
+
 
 
