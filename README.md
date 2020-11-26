@@ -23,7 +23,7 @@ Herramienta en la que se da a conocer la importancia de la organización del tie
 
 3.[Requerimintos](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Documentacion/3.%20Requerimientos.md#requerimientos "Requerimentos")
 
-4.[Roles y procesos de trabajo]( "Casos de uso")
+4.[Roles y procesos de trabajo](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Documentacion/4.%20Roles%20y%20proceso%20de%20trabajo.md#proceso-de-trabajo "Casos de uso")
 
 5. [Bitácora]( "Herramientas e investigación")
 
