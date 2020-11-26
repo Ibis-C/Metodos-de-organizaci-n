@@ -18,6 +18,8 @@ Herramienta en la que se da a conocer la importancia de la organización del tie
 
 # **ÍNDICE**
 
+[Objetivos generales y específicos](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/José_Emmanuel_Bacab_Moreno/Objetivos.md#objetivos-generales-y-espec%C3%ADficos "Objetivos generales y específicos")
+
 [Tabajo en equipo](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Trabajoenequipo.md#trabajo-en-equipo "Trabajo en equipo")
 
 [Roles de equipo](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Roles.md#roles-de-equipo)
