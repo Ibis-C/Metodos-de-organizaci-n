@@ -27,10 +27,7 @@ Herramienta en la que se da a conocer la importancia de la organización del tie
 
 5. [Bitácora](https://github.com/Audny738/POO_Project/blob/master/DOCUMENTACIÓN/5.%20Herramientas%20e%20investigacion.md "Herramientas e investigación")
 
-1. [Objetivos generales y específicos](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/José_Emmanuel_Bacab_Moreno/Objetivos.md#objetivos-generales-y-espec%C3%ADficos "Objetivos generales y específicos")
-
-
-6.[bitacora](https://github.com/Audny738/POO_Project/blob/master/DOCUMENTACIÓN/6.%20Procesos%20y%20Roles.md "Procesos y Roles")
+6. [Objetivos generales y específicos](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/José_Emmanuel_Bacab_Moreno/Objetivos.md#objetivos-generales-y-espec%C3%ADficos "Objetivos generales y específicos")
 
 7.[Datos de estudio e investigacion]
 
@@ -39,5 +36,4 @@ Herramienta en la que se da a conocer la importancia de la organización del tie
 
 
 
-[Índice](https://github.com/Ibis-C/Metodos-de-organizaci-n/tree/main#%C3%ADndice "íNDICE")
 
