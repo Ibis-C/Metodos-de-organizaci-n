@@ -16,6 +16,8 @@ Herramienta en la que se da a conocer la importancia de la organización del tie
 
 * **Link:** - [@JiraScrum](https://metodos-de-organizacion.atlassian.net/jira/software/projects/PFIS/boards/2)
 
-[Epicas](https://github.com/Ibis-C/Metodos-de-organizaci-n/tree/Daniela-Lujan#epicas "Epicas")
+# **ÍNDICE**
+
+[Tabajo en equipo](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/README.md#trabajo-en-equipo "Trabajo en equipo")
 
 
