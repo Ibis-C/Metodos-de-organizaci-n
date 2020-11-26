@@ -1,4 +1,5 @@
 
+
 # Métodos de organización :notebook:
 
 ## Autores :pencil:
@@ -17,7 +18,10 @@ Herramienta en la que se da a conocer la importancia de la organización del tie
 1.[Objetivos](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/main/Documentacion/1.%20Objetivos.md#objetivos "Objetivos")
 
 
+
+
 [Índice](https://github.com/Ibis-C/Metodos-de-organizaci-n/tree/main#%C3%ADndice "íNDICE")
+
 
 2.[Herramientas y metodos]( "Requerimientos")
 
@@ -36,5 +40,12 @@ Herramienta en la que se da a conocer la importancia de la organización del tie
 7.[Datos de estudio e investigacion]
 
 8.[Competencias]
+
+
+
+
+
+[Índice](https://github.com/Ibis-C/Metodos-de-organizaci-n/tree/main#%C3%ADndice "íNDICE")
+
 
 
