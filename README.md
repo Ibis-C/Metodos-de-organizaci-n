@@ -19,5 +19,6 @@ Herramienta en la que se da a conocer la importancia de la organización del tie
 # **ÍNDICE**
 
 [Tabajo en equipo](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Trabajoenequipo.md#trabajo-en-equipo "Trabajo en equipo")
+
 [Roles de equipo](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Roles.md#roles-de-equipo)
 
