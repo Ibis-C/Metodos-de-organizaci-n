@@ -15,5 +15,10 @@ Herramienta en la que se da a conocer la importancia de la organización del tie
 ## JIRA SCRUM :label:
 
 * **Link:** - [@JiraScrum](https://metodos-de-organizacion.atlassian.net/jira/software/projects/PFIS/boards/2)
-## PROCESO DE DESARROLLO
-## Requerimientos ##
+
+# Definición de producto
+## Definir objetivos: General y 3 especificos
+
+## Identificar los usuarios
+
+
