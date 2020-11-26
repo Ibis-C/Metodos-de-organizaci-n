@@ -79,7 +79,7 @@ estimado por el equipo de desarrollo. La responsabilidad exclusiva de ordenar el
 product backlog es del Product Owner, que se encuentra en constante comunicación 
 con el cliente para asegurarse de que las prioridades están bien establecidas.
 
-**Sprint backlog*
+**Sprint backlog**
 
 Es el grupo de tareas del product backlog que el equipo de desarrollo elige en el sprint
 planning junto con el plan para poder desarrollarlas. Debe ser conocido por todo el 
