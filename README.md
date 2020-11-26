@@ -42,7 +42,7 @@ Herramienta en la que se da a conocer la importancia de la organización del tie
 
 7.[Datos de estudio e investigacion]
 
-8.[Competencias]
+8.[Competencias](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Angel_Ricalde/Capacidadesdelproducto.md "Competencias")
 
 
 
