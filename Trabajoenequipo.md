@@ -87,6 +87,6 @@ equipo, para asegurarse de que el foco debe estar en este grupo de tareas.
 El sprint planning no cambia durante el sprint, solo se permite cambiar el plan para poder desarrollarlas.
 
 [Atrás](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Ibis-Carrilllo-Araujo/Calendario.md#calendario-de-actividades)
-[Índice](https://github.com/Ibis-C/Metodos-de-organizaci-n/tree/main#%C3%ADndice "íNDICE")
+/ [Índice](https://github.com/Ibis-C/Metodos-de-organizaci-n/tree/main#%C3%ADndice "íNDICE") /
 [Siguiente](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Roles.md#roles-de-equipo)
 
