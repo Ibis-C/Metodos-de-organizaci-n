@@ -1,4 +1,5 @@
 
+
 # Métodos de organización :notebook:
 
 ## Autores :pencil:
@@ -14,16 +15,25 @@ Herramienta en la que se da a conocer la importancia de la organización del tie
 
 ## Indice
 
-1.[Objetivos](https://github.com/Audny738/POO_Project/blob/master/DOCUMENTACIÓN/1.%20Objetivos.md "Objetivos")
+1.[Objetivos](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/main/Documentacion/1.%20Objetivos.md#objetivos "Objetivos")
 
-2.[Herramientas y metodos](https://github.com/Audny738/POO_Project/blob/master/DOCUMENTACIÓN/2.%20Requerimientos.md "Requerimientos")
+
+
+
+[Índice](https://github.com/Ibis-C/Metodos-de-organizaci-n/tree/main#%C3%ADndice "íNDICE")
+
+
+2.[Herramientas y metodos]( "Requerimientos")
 
 
 3.[Requerimintos](https://github.com/Audny738/POO_Project/blob/master/DOCUMENTACIÓN/3.%20Historias%20de%20Usuario.md "Historias de usuario")
 
 4.[Roles y procesos de trabajo](https://github.com/Audny738/POO_Project/blob/master/DOCUMENTACIÓN/4.%20CasosDeUso.md "Casos de uso")
 
+
 5.[Bitácora](https://github.com/Audny738/POO_Project/blob/master/DOCUMENTACIÓN/5.%20Herramientas%20e%20investigacion.md "Herramientas e investigación")
+
+5. [Bitácora](https://github.com/Audny738/POO_Project/blob/master/DOCUMENTACIÓN/5.%20Herramientas%20e%20investigacion.md "Herramientas e investigación")
 
 1. [Objetivos generales y específicos](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/José_Emmanuel_Bacab_Moreno/Objetivos.md#objetivos-generales-y-espec%C3%ADficos "Objetivos generales y específicos")
 
@@ -33,6 +43,12 @@ Herramienta en la que se da a conocer la importancia de la organización del tie
 7.[Datos de estudio e investigacion]
 
 8.[Competencias]
+
+
+
+
+
+[Índice](https://github.com/Ibis-C/Metodos-de-organizaci-n/tree/main#%C3%ADndice "íNDICE")
 
 
 
