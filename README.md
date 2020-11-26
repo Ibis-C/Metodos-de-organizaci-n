@@ -29,7 +29,7 @@ Herramienta en la que se da a conocer la importancia de la organización del tie
 
 6.[Datos de estudio e investigación](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Documentacion/6.%20Datos%20de%20estudio%20e%20Investigacion.md#datos-de-estudio-e-investigación "Datos de estudio e investigación")
 
-7.[Datos de estudio e investigacion]
+7.[Competencias](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Documentacion/7.%20Competencias%20.md#competencias "Competencias")
 
 8.[Competencias]
 
