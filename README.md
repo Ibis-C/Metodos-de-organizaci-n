@@ -25,7 +25,7 @@ Herramienta en la que se da a conocer la importancia de la organización del tie
 
 4.[Roles y procesos de trabajo](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Documentacion/4.%20Roles%20y%20proceso%20de%20trabajo.md#proceso-de-trabajo "Casos de uso")
 
-5. [Bitácora]( "Herramientas e investigación")
+5. [Bitácora](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Documentacion/5.%20bitácora.md#bitácora "Herramientas e investigación")
 
 6. [Objetivos generales y específicos]( "Objetivos generales y específicos")
 
