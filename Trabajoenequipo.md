@@ -86,3 +86,8 @@ Es el grupo de tareas del product backlog que el equipo de desarrollo elige en e
 planning junto con el plan para poder desarrollarlas. Debe ser conocido por todo el 
 equipo, para asegurarse de que el foco debe estar en este grupo de tareas.
 El sprint planning no cambia durante el sprint, solo se permite cambiar el plan para poder desarrollarlas.
+
+[Atrás]()
+[Índice](https://github.com/Ibis-C/Metodos-de-organizaci-n/tree/main#%C3%ADndice "íNDICE")
+[Siguiente]()
+
