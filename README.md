@@ -16,7 +16,4 @@ Herramienta en la que se da a conocer la importancia de la organización del tie
 
 * **Link:** - [@JiraScrum](https://metodos-de-organizacion.atlassian.net/jira/software/projects/PFIS/boards/2)
 
-
 ## Epicas
- 
- 
