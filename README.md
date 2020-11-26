@@ -18,9 +18,6 @@ Herramienta en la que se da a conocer la importancia de la organización del tie
 
 # **ÍNDICE**
 
-
-
-=======
 1. [Objetivos generales y específicos](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/José_Emmanuel_Bacab_Moreno/Objetivos.md#objetivos-generales-y-espec%C3%ADficos "Objetivos generales y específicos")
 
 2. [Identificación de usuarios](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/José_Emmanuel_Bacab_Moreno/Usuarios.md#identificación-de-usuarios "Identidicación de usuarios")
