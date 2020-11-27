@@ -13,42 +13,40 @@
 
 Herramienta en la que se da a conocer la importancia de la organización del tiempo, sus diferentes técnicas y como puedes implementarlas en tu día a día obteniendo un mejor desempeño. Dirigido a un nivel educativo universitario, basado en el modo presencial y modalidad en línea..
 
+**Usuario:**
+
+
+**Cliente:**
+
+
+
+
 ## Indice
 
-1.[Objetivos](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/main/Documentacion/1.%20Objetivos.md#objetivos "Objetivos")
+
+1.[Objetivos](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Documentacion/1.%20Objetivos.md#objetivos "Objetivos")
+
+
+2.[Herramientas y metodos](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Documentacion/2.%20Herramientas%20y%20métodos.md#herramientas-y-métodos "Herramientas de usuario")
+
+
+3.[Requerimintos](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Documentacion/3.%20Requerimientos.md#requerimientos "Requerimentos")
+
+4.[Roles y procesos de trabajo](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Documentacion/4.%20Roles%20y%20proceso%20de%20trabajo.md#proceso-de-trabajo "Casos de uso")
+
+5.[Bitácora](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Documentacion/5.%20bitácora.md#bitácora "Herramientas e investigación")
+
+6.[Datos de estudio e investigación](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Documentacion/6.%20Datos%20de%20estudio%20e%20Investigacion.md#datos-de-estudio-e-investigación "Datos de estudio e investigación")
+
+7.[Competencias](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Documentacion/7.%20Competencias%20.md#competencias "Competencias")
+
+8.[Trabajo en equipo](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Documentacion/8.%20Trabajo%20en%20equipo.md#trabajo-en-equipo "Trabajo en equipo")
 
 
 
 
-[Índice](https://github.com/Ibis-C/Metodos-de-organizaci-n/tree/main#%C3%ADndice "íNDICE")
 
-
-2.[Herramientas y metodos]( "Requerimientos")
-
-
-3.[Requerimintos](https://github.com/Audny738/POO_Project/blob/master/DOCUMENTACIÓN/3.%20Historias%20de%20Usuario.md "Historias de usuario")
-
-4.[Roles y procesos de trabajo](https://github.com/Audny738/POO_Project/blob/master/DOCUMENTACIÓN/4.%20CasosDeUso.md "Casos de uso")
-
-
-5.[Bitácora](https://github.com/Audny738/POO_Project/blob/master/DOCUMENTACIÓN/5.%20Herramientas%20e%20investigacion.md "Herramientas e investigación")
-
-5. [Bitácora](https://github.com/Audny738/POO_Project/blob/master/DOCUMENTACIÓN/5.%20Herramientas%20e%20investigacion.md "Herramientas e investigación")
-
-1. [Objetivos generales y específicos](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/José_Emmanuel_Bacab_Moreno/Objetivos.md#objetivos-generales-y-espec%C3%ADficos "Objetivos generales y específicos")
-
-
-6.[bitacora](https://github.com/Audny738/POO_Project/blob/master/DOCUMENTACIÓN/6.%20Procesos%20y%20Roles.md "Procesos y Roles")
-
-7.[Datos de estudio e investigacion]
-
-8.[Competencias]
-
-
-
-
+* **Link:** - [@JiraScrum](https://metodos-de-organizacion.atlassian.net/jira/software/projects/PFIS/boards/2)
 
 [Índice](https://github.com/Ibis-C/Metodos-de-organizaci-n/tree/main#%C3%ADndice "íNDICE")
-
-
 
