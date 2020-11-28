@@ -13,6 +13,14 @@
 
 Herramienta en la que se da a conocer la importancia de la organización del tiempo, sus diferentes técnicas y como puedes implementarlas en tu día a día obteniendo un mejor desempeño. Dirigido a un nivel educativo universitario, basado en el modo presencial y modalidad en línea..
 
+**Usuario:**
+
+
+**Cliente:**
+
+
+
+
 ## Indice
 
 
@@ -35,4 +43,10 @@ Herramienta en la que se da a conocer la importancia de la organización del tie
 8.[Trabajo en equipo](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Documentacion/8.%20Trabajo%20en%20equipo.md#trabajo-en-equipo "Trabajo en equipo")
 
 
+
+
+
+* **Link:** - [@JiraScrum](https://metodos-de-organizacion.atlassian.net/jira/software/projects/PFIS/boards/2)
+
+[Índice](https://github.com/Ibis-C/Metodos-de-organizaci-n/tree/main#%C3%ADndice "íNDICE")
 
