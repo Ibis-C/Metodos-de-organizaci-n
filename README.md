@@ -21,7 +21,7 @@ Herramienta en la que se da a conocer la importancia de la organización del tie
 
 
 
-## Indice
+## Índice
 
 
 1.[Objetivos](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Documentacion/1.%20Objetivos.md#objetivos "Objetivos")
