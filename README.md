@@ -13,10 +13,23 @@
 
 Herramienta en la que se da a conocer la importancia de la organización del tiempo, sus diferentes técnicas y como puedes implementarlas en tu día a día obteniendo un mejor desempeño. Dirigido a un nivel educativo universitario, basado en el modo presencial y modalidad en línea..
 
-**Usuario:**
+**Usuarios:**
+
+•	Primarios: Alumnos de primer año de la Licenciatura en Ingeniería en Software en FMAT  UADY con malos hábitos de organización.
+
+•	Secundarios: Alumnos de primer año de educación superior de diversas carreras de la UADY con malos hábitos de organización.
+
+
+•	Potenciales: Alumnos de los primeros años o próximos a ingresar a la educación superior con malos hábitos de organización personal en México.
+
+Nuestro equipo de trabajo funge como usuarios expertos debido a que también formamos parte de los usuarios primarios.
 
 
 **Cliente:**
+
+
+M.O.C.E. Laura 	Carolina Sánchez Leal Responsable del departamento de Orientación y Consejo Educativo en FMAT  UADY.
+
 
 
 
