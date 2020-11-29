@@ -9,9 +9,9 @@
 * **Ruth Betzabe Castro Acosta** - [@Ruthbcastro](https://github.com/Ruthbcastro "@Ruthbcastro")
 * **Jose Emmanuel Bacab Moreno** - [@jose130802](https://github.com/jose130802 "jose130802")
 ## Descripción
-**Métodos de organización:**
+**Métodos y habilidades para la  organización personal:**
 
-Herramienta en la que se da a conocer la importancia de la organización del tiempo, sus diferentes técnicas y como puedes implementarlas en tu día a día obteniendo un mejor desempeño. Dirigido a un nivel educativo universitario, basado en el modo presencial y modalidad en línea..
+Herramienta en la que se da a conocer la importancia de la organización del tiempo, sus diferentes técnicas y como puedes implementarlas en tu día a día obteniendo un mejor desempeño. Dirigido a un nivel de educación superior en alumnos de primer año de Ingeniería en Software FMAT UADY para modalidad presencial y en línea.
 
 **Usuarios:**
 
