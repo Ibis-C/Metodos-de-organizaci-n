@@ -37,7 +37,7 @@ M.O.C.E. Laura 	Carolina Sánchez Leal Responsable del departamento de Orientaci
 ## Índice
 
 
-1.[Objetivos](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Documentacion/1.%20Objetivos.md#objetivos "Objetivos")
+1.[Objetivos](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/main/Documentacion/1.%20Objetivos.md#objetivo-general "Objetivos")
 
 
 2.[Herramientas y metodos](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/Daniela-Lujan/Documentacion/2.%20Herramientas%20y%20métodos.md#herramientas-y-métodos "Herramientas de usuario")
