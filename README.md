@@ -1,4 +1,4 @@
-
+:shipit:
 
 # Métodos de organización :notebook:
 
@@ -8,12 +8,12 @@
 * **Angel David Ricalde Che** - [@Acuablast](https://github.com/Acuablast "@JAcuablast")
 * **Ruth Betzabe Castro Acosta** - [@Ruthbcastro](https://github.com/Ruthbcastro "@Ruthbcastro")
 * **Jose Emmanuel Bacab Moreno** - [@jose130802](https://github.com/jose130802 "jose130802")
-## Descripción
+## Descripción :page_facing_up:
 **Métodos y habilidades para la  organización personal:**
 
 Herramienta en la que se da a conocer la importancia de la organización del tiempo, sus diferentes técnicas y como puedes implementarlas en tu día a día obteniendo un mejor desempeño. Dirigido a un nivel de educación superior en alumnos de primer año de Ingeniería en Software FMAT UADY para modalidad presencial y en línea.
 
-**Usuarios:**
+**Usuarios:** 
 
 •	Primarios: Alumnos de primer año de la Licenciatura en Ingeniería en Software en FMAT  UADY con malos hábitos de organización.
 
@@ -34,7 +34,7 @@ M.O.C.E. Laura 	Carolina Sánchez Leal Responsable del departamento de Orientaci
 
 
 
-## Índice
+## Índice :scroll:
 
 
 1.[Objetivos](https://github.com/Ibis-C/Metodos-de-organizaci-n/blob/main/Documentacion/1.%20Objetivos.md#objetivo-general "Objetivos")
