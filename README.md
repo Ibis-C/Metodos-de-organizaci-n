@@ -58,7 +58,7 @@ M.O.C.E. Laura 	Carolina Sánchez Leal Responsable del departamento de Orientaci
 
 * **Link:** - [@JiraScrum](https://metodos-de-organizacion.atlassian.net/jira/software/projects/PFIS/boards/2)
 
-## AVANCES :bookmark_tabs:
+## Avances :bookmark_tabs:
 
 [Primera Presentación](https://drive.google.com/file/d/1F0vofleelqB5JcEyuFYQqAPxitU4AYgu/view "Primera Presentación")
 
