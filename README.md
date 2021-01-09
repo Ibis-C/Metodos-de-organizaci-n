@@ -47,7 +47,7 @@ M.O.C.E. Laura 	Carolina Sánchez Leal Responsable del departamento de Orientaci
 
 4.[Roles y procesos de trabajo](https://github.com/Ibis-C/Metodos-de-organizacion/blob/Primera-Entrega/Documentacion/4.%20Roles%20y%20proceso%20de%20trabajo.md#proceso-de-trabajo "Casos de uso")
 
-5.[Bitácora](https://github.com/Ibis-C/Metodos-de-organizacion/blob/Primera-Entrega/Documentacion/5.%20bitácora.md#bitácora "Herramientas e investigación")
+5.[Bitácora](https://github.com/Ibis-C/Metodos-de-organizacion/blob/Primera-Entrega/Documentacion/5.%20bitácora.md#bitácora "Bitácora")
 
 6.[Datos de estudio e investigación](https://github.com/Ibis-C/Metodos-de-organizacion/blob/Primera-Entrega/Documentacion/6.%20Datos%20de%20estudio%20e%20Investigacion.md#datos-de-estudio-e-investigación "Datos de estudio e investigación")
 
