@@ -28,7 +28,7 @@
 
 [Gráfica de la evolución del sprint](https://drive.google.com/file/d/1bWUvcaFtoYNJVnspYB_YdWwQHO1i5N15/view?usp=sharing)
 
-**TABLERO KANBAN:
+*TABLERO KANBAN:*
 
 [Principio](https://drive.google.com/file/d/1llBKZlssU9h7pzlE_W4gbGDxmtlCsUgr/view?usp=sharing)
 
