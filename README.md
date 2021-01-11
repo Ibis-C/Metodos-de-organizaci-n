@@ -11,7 +11,7 @@
 ## Descripción :page_facing_up:
 **Métodos y habilidades para la  organización personal:**
 
-Herramienta en la que se da a conocer la importancia de la organización del tiempo, sus diferentes técnicas y como puedes implementarlas en tu día a día obteniendo un mejor desempeño. Dirigido a un nivel de educación superior en alumnos de primer año de Ingeniería en Software FMAT UADY para modalidad presencial y en línea.
+Video interactivo en el que se da a conocer la importancia de la organización, sus diferentes técnicas y como puedes implementarlas en tu día a día obteniendo un mejor desempeño. Dirigido a un nivel de educación superior en alumnos de primer año de Ingeniería en Software FMAT UADY para modalidad presencial y en línea.
 
 **Usuarios:** 
 
