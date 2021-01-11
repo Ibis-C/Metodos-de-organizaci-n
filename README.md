@@ -53,7 +53,7 @@ M.O.C.E. Laura 	Carolina Sánchez Leal Responsable del departamento de Orientaci
 
 7.[Competencias](https://github.com/Ibis-C/Metodos-de-organizacion/blob/Primera-Entrega/Documentacion/7.%20Competencias%20.md#competencias "Competencias")
 
-8.[Trabajo en equipo]( "Trabajo en equipo")
+8.[Trabajo en equipo](https://github.com/Ibis-C/Metodos-de-organizacion/blob/Primera-Entrega/Documentacion/8.%20Trabajo%20en%20equipo.md#trabajo-en-equipo "Trabajo en equipo")
 
 
 * **Link:** - [@JiraScrum](https://metodos-de-organizacion.atlassian.net/jira/software/projects/PFIS/boards/2)
