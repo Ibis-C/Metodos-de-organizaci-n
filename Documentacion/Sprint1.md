@@ -23,9 +23,9 @@
 ## ***Bitacora***
 28-NOV-2020: Reunión del equipo scrum (Product owner, scrum máster, y equipo de desarrollo). Se lleva a cabo la priorización y estimacion de las historias de usuario. Se acuerda que se pueden hacer 18 puntos de historia por sprint y se llega a una estimacion aproximado de que todo el product backlog estaría listo en 4 sprint y se agregan los casos de uso a cada historia de usuario. (Sprint de 7 días)
 Proceso: 
-    +	La priorización es a cargo de product owner especificando que historias de usuario quiere ir desarrollando primero hasta la ultima y el product owner se encarga de escribir la priorización de cada historia de usuario usando el método MosCow.
-    + La estimacion se lleva acabo usando el método planning poker.
-    + El acuerdo de hacer 18 puntos de historia por sprint llego después de tener la estimacion de las historias de usuario, y ver a grandes rasgos que las primeras 3 historias de usuario se podían hacer en un sprint sin problema, lo cual nos da un puntaje de 18 historias de usuario por sprint.
+ +	La priorización es a cargo de product owner especificando que historias de usuario quiere ir desarrollando primero hasta la ultima y el product owner se encarga de escribir la priorización de cada historia de usuario usando el método MosCow.
+ + La estimacion se lleva acabo usando el método planning poker.
+ + El acuerdo de hacer 18 puntos de historia por sprint llego después de tener la estimacion de las historias de usuario, y ver a grandes rasgos que las primeras 3 historias de usuario se podían hacer en un sprint sin problema, lo cual nos da un puntaje de 18 historias de usuario por sprint.
     
 29-DIC-2020: Comienza el Sprint 1. Reunión de scrum master y equipo de desarrollo para llevar a cabo el sprint plannig. Se llega al acuerdo de hacer las primeras 3 historias de usuario, se obtiene el sprint backlog, se hace el compromiso con el product owner y se hace la especificación de los casos de uso de las historias de usuario a desarrollar.
 Proceso:
