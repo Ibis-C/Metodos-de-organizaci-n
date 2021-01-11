@@ -37,23 +37,23 @@ M.O.C.E. Laura 	Carolina Sánchez Leal Responsable del departamento de Orientaci
 ## Índice :scroll:
 
 
-1.[Objetivos](https://github.com/Ibis-C/Metodos-de-organizacion/blob/Daniela-Lujan/Documentacion/1.%20Objetivos.md#objetivo-general "Objetivos")
+1.[Objetivos]( "Objetivos")
 
 
-2.[Herramientas y metodos](https://github.com/Ibis-C/Metodos-de-organizacion/blob/Primera-Entrega/Documentacion/2.%20Herramientas%20y%20métodos.md#herramientas-y-métodos "Herramientas de usuario")
+2.[Herramientas y metodos]( "Herramientas de usuario")
 
 
-3.[Historias de usuario y requerimintos](https://github.com/Ibis-C/Metodos-de-organizacion/blob/Primera-Entrega/Documentacion/3.%20Historias%20de%20usuario%20y%20requerimientos%20no%20funcionales.md#historias-de-usuario-y-requerimientos "Historias de usuario y requerimientos")
+3.[Historias de usuario y requerimintos]( "Historias de usuario y requerimientos")
 
-4.[Roles y procesos de trabajo](https://github.com/Ibis-C/Metodos-de-organizacion/blob/Primera-Entrega/Documentacion/4.%20Roles%20y%20proceso%20de%20trabajo.md#proceso-de-trabajo "Casos de uso")
+4.[Roles y procesos de trabajo]( "Casos de uso")
 
-5.[Bitácora](https://github.com/Ibis-C/Metodos-de-organizacion/blob/Primera-Entrega/Documentacion/5.%20bitácora.md#bitácora "Bitácora")
+5.[Bitácora]( "Bitácora")
 
-6.[Datos de estudio e investigación](https://github.com/Ibis-C/Metodos-de-organizacion/blob/Primera-Entrega/Documentacion/6.%20Datos%20de%20estudio%20e%20Investigacion.md#datos-de-estudio-e-investigación "Datos de estudio e investigación")
+6.[Datos de estudio e investigación]( "Datos de estudio e investigación")
 
-7.[Competencias](https://github.com/Ibis-C/Metodos-de-organizacion/blob/Primera-Entrega/Documentacion/7.%20Competencias%20.md#competencias "Competencias")
+7.[Competencias]( "Competencias")
 
-8.[Trabajo en equipo](https://github.com/Ibis-C/Metodos-de-organizacion/blob/Primera-Entrega/Documentacion/8.%20Trabajo%20en%20equipo.md#trabajo-en-equipo "Trabajo en equipo")
+8.[Trabajo en equipo]( "Trabajo en equipo")
 
 
 * **Link:** - [@JiraScrum](https://metodos-de-organizacion.atlassian.net/jira/software/projects/PFIS/boards/2)
