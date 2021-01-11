@@ -3,24 +3,42 @@
 + [LINK VIDEO HU 1](https://drive.google.com/file/d/1SuzI8_dZpOv0jrTr6i-6b4-2cl1YND-z/view?usp=sharing)
 + [LINK VIDEO HU 2](https://drive.google.com/file/d/1vU4TYOTCY6Q5A6SKU5idIQu3pfN7rGWL/view?usp=sharing)
 + [LINK VIDEO HU 3](https://drive.google.com/file/d/1jaUSAjR2C4KEqtvDj5kLnXEjLj5mQ04G/view?usp=sharing)
+
++[DISEÑO HU 1](https://drive.google.com/file/d/1ef0VjlQhmWNubg34euyniG8BrdT4dLUh/view?usp=sharing)
++[DISEÑO HU 2](https://drive.google.com/file/d/178UC0WA85I5jvDZTRFgd5T8LyRt5hEI5/view?usp=sharing)
++[DISEÑO HU 3-1](https://drive.google.com/file/d/1FqPfBjExwI3cby7_5t7ozSS7Zp5J5BYN/view?usp=sharing)
++[DISEÑO HU 3-2](https://drive.google.com/file/d/1ef0VjlQhmWNubg34euyniG8BrdT4dLUh/view?usp=sharing)
  
 ## ***Planificacion del sprint***
  
- 
+ [Tablas de horas de esfuerzo disponible]( https://drive.google.com/file/d/1oxnD7nseDvQLCNhAuxBhK2dI_AHxvUS1/view?usp=sharing)
+ [Product Backlog](https://drive.google.com/file/d/17GhrPTShaFgqlolK8mk0PJI6gLqNjU5q/view?usp=sharing)
 
 
 
 ## ***Ejecucion del Sprint***
 
+[Planificación de Ejecución del Sprint](https://drive.google.com/file/d/1qV6kPoerN_nXyyiCcBzMAv2NebS7cMte/view?usp=sharing)
+[Tabla de esfuerzo restante](https://drive.google.com/file/d/1-z7Cl_W9iVdW65ikNkAo7S0s8Rqf8eW1/view?usp=sharing)
+[Gráfica de la evolución del sprint](https://drive.google.com/file/d/1bWUvcaFtoYNJVnspYB_YdWwQHO1i5N15/view?usp=sharing)
+
+**TABLERO KANBAN:
+
+[Principio](https://drive.google.com/file/d/1llBKZlssU9h7pzlE_W4gbGDxmtlCsUgr/view?usp=sharing)
+[Día 1](https://drive.google.com/file/d/1zi7bxZErBafRCMpEVFBEE-xHXbxvxiww/view?usp=sharing)
+[Día 2](https://drive.google.com/file/d/1hb27rDr9QNX0pVRNU-oN8IMJNo32a0gM/view?usp=sharing)
+[Día 3](https://drive.google.com/file/d/111okE7wze1EjD6TEQnd1qIsRrBrVLTp_/view?usp=sharing)
+[Día 4](https://drive.google.com/file/d/1m1WLeeOrYyDttkt9LfBE4nHKi6U57HR7/view?usp=sharing)
+[Fin](https://drive.google.com/file/d/14M0nAv_bl-l7y-hHFJFKAcof_Ikxr36j/view?usp=sharing)
 
 
 ## ***Sprint review***
 
-
+[Resultado](
 
 ## ***Sprint retrospective***
 
-
+[Resultado](
 
 ## ***Bitacora***
 28-NOV-2020: Reunión del equipo scrum (Product owner, scrum máster, y equipo de desarrollo). Se lleva a cabo la priorización y estimacion de las historias de usuario. Se acuerda que se pueden hacer 18 puntos de historia por sprint y se llega a una estimacion aproximado de que todo el product backlog estaría listo en 4 sprint y se agregan los casos de uso a cada historia de usuario. (Sprint de 7 días)
