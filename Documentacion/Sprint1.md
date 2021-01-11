@@ -2,7 +2,7 @@
 
 + [LINK VIDEO HU 1](https://drive.google.com/file/d/1SuzI8_dZpOv0jrTr6i-6b4-2cl1YND-z/view?usp=sharing)
 + [LINK VIDEO HU 2](https://drive.google.com/file/d/1vU4TYOTCY6Q5A6SKU5idIQu3pfN7rGWL/view?usp=sharing)
-+ [LINK HU 3](https://drive.google.com/file/d/1jaUSAjR2C4KEqtvDj5kLnXEjLj5mQ04G/view?usp=sharing)
++ [LINK VIDEO HU 3](https://drive.google.com/file/d/1jaUSAjR2C4KEqtvDj5kLnXEjLj5mQ04G/view?usp=sharing)
  
 ## ***Planificacion del sprint***
  
