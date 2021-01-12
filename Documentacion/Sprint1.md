@@ -1,16 +1,16 @@
 # Incremento del producto #
 
 + [LINK VIDEO HU 1](https://drive.google.com/file/d/1SuzI8_dZpOv0jrTr6i-6b4-2cl1YND-z/view?usp=sharing)
+  + [DISEÑO HU 1](https://drive.google.com/file/d/1ef0VjlQhmWNubg34euyniG8BrdT4dLUh/view?usp=sharing)
 + [LINK VIDEO HU 2](https://drive.google.com/file/d/1vU4TYOTCY6Q5A6SKU5idIQu3pfN7rGWL/view?usp=sharing)
-+ [LINK VIDEO HU 3](https://drive.google.com/file/d/1jaUSAjR2C4KEqtvDj5kLnXEjLj5mQ04G/view?usp=sharing)
+  + [DISEÑO HU 2](https://drive.google.com/file/d/178UC0WA85I5jvDZTRFgd5T8LyRt5hEI5/view?usp=sharing)
++ [LINK VIDEO HU 3](https://drive.google.com/file/d/1jaUSAjR2C4KEqtvDj5kLnXEjLj5mQ04G/view?usp=sharing): 
+  + [DISEÑO PARTE 1](https://drive.google.com/file/d/1FqPfBjExwI3cby7_5t7ozSS7Zp5J5BYN/view?usp=sharing)
+  + [DISEÑO PARTE 2](https://drive.google.com/file/d/1ef0VjlQhmWNubg34euyniG8BrdT4dLUh/view?usp=sharing)
 
-+[DISEÑO HU 1](https://drive.google.com/file/d/1ef0VjlQhmWNubg34euyniG8BrdT4dLUh/view?usp=sharing)
 
-+[DISEÑO HU 2](https://drive.google.com/file/d/178UC0WA85I5jvDZTRFgd5T8LyRt5hEI5/view?usp=sharing)
 
-+[DISEÑO HU 3-1](https://drive.google.com/file/d/1FqPfBjExwI3cby7_5t7ozSS7Zp5J5BYN/view?usp=sharing)
 
-+[DISEÑO HU 3-2](https://drive.google.com/file/d/1ef0VjlQhmWNubg34euyniG8BrdT4dLUh/view?usp=sharing)
  
 ## ***Planificacion del sprint***
  
@@ -28,7 +28,7 @@
 
 [Gráfica de la evolución del sprint](https://drive.google.com/file/d/1bWUvcaFtoYNJVnspYB_YdWwQHO1i5N15/view?usp=sharing)
 
-**TABLERO KANBAN:**
+###### TABLERO KANBAN: 
 
 [Principio](https://drive.google.com/file/d/1llBKZlssU9h7pzlE_W4gbGDxmtlCsUgr/view?usp=sharing)
 
@@ -45,11 +45,12 @@
 
 ## ***Sprint review***
 
-[Resultado](
+[Resultado](https://drive.google.com/file/d/1E30iehLazeP_SIkc8rLH3IMgTh-IwPA3/view?usp=sharing)
+
 
 ## ***Sprint retrospective***
 
-[Resultado](
+[Resultado](https://drive.google.com/file/d/1CxMDurySZo_8wRuEvMkum4b1cm7FS2LQ/view?usp=sharing)
 
 ## ***Bitacora***
 28-NOV-2020: Reunión del equipo scrum (Product owner, scrum máster, y equipo de desarrollo). Se lleva a cabo la priorización y estimacion de las historias de usuario. Se acuerda que se pueden hacer 18 puntos de historia por sprint y se llega a una estimacion aproximado de que todo el product backlog estaría listo en 4 sprint y se agregan los casos de uso a cada historia de usuario. (Sprint de 7 días)
