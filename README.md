@@ -60,7 +60,7 @@ M.O.C.E. Laura 	Carolina Sánchez Leal Responsable del departamento de Orientaci
 
 ## Avances :bookmark_tabs:
 
-[Primera Presentación](https://drive.google.com/file/d/1F0vofleelqB5JcEyuFYQqAPxitU4AYgu/view "Primera Presentación")
+[Segunda Presentación]( "Segunda Presentación")
 
 [Sprint 1](https://github.com/Ibis-C/Metodos-de-organizacion/blob/Segunda-Entrega/Documentacion/Sprint1.md "Sprint1.md")
 
