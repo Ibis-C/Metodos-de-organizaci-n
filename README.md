@@ -64,6 +64,8 @@ M.O.C.E. Laura 	Carolina Sánchez Leal Responsable del departamento de Orientaci
 
 [Segunda Presentación](https://drive.google.com/file/d/1ep6Cnb9KUwBt8I_DcG6udEol8-JouwQL/view?usp=sharing "Segunda Presentación")
 
+[Repositorio en INGLÉS](https://github.com/DanielaLujanTrejo/Methods-of-organization- "Repositorio en INGLÉS")
+
 [Sprint 1](https://github.com/Ibis-C/Metodos-de-organizacion/blob/Segunda-Entrega/Documentacion/Sprint1.md "Sprint1.md")
 
 
