@@ -78,3 +78,5 @@ Proceso:
 07-ENE-2021: Se hace reunión diaria con el equipo y scrum máster. Este mismo día se hace la reunión de la revisión del sprint con el equipo scrum e invitados.
 
 8-ENE-2021. Se reúne el equipo scrum y se hace la retrospectiva del sprint.
+
+[Índice](https://github.com/Ibis-C/Metodos-de-organizacion/tree/Segunda-entrega#%C3%ADndice-scrolll)
