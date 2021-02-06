@@ -18,8 +18,12 @@
  
  [Product Backlog](https://drive.google.com/file/d/17GhrPTShaFgqlolK8mk0PJI6gLqNjU5q/view?usp=sharing)
 
+ESPECIFICACIONES:
 
-
+ [Caso de uso 1](https://drive.google.com/file/d/1vU4TYOTCY6Q5A6SKU5idIQu3pfN7rGWL/view?usp=sharing)
+ [Caso de uso 2](https://drive.google.com/file/d/1jaUSAjR2C4KEqtvDj5kLnXEjLj5mQ04G/view?usp=sharing)
+ [Caso de uso 3](https://drive.google.com/file/d/1SuzI8_dZpOv0jrTr6i-6b4-2cl1YND-z/view?usp=sharing)
+ 
 ## ***Ejecucion del Sprint***
 
 [Planificación de Ejecución del Sprint](https://drive.google.com/file/d/1qV6kPoerN_nXyyiCcBzMAv2NebS7cMte/view?usp=sharing)
