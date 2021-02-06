@@ -69,6 +69,8 @@ M.O.C.E. Laura 	Carolina Sánchez Leal Responsable del departamento de Orientaci
 
 [Sprint 1](https://github.com/Ibis-C/Metodos-de-organizacion/blob/Segunda-entrega/Documentacion/Sprint1.md#incremento-del-producto "Sprint1.md")
 
+[Sprint 2](https://github.com/Ibis-C/Metodos-de-organizacion/blob/Entrega-Final/Documentacion/Sprint%202.md#incremento-del-producto)
+
 
 
 
