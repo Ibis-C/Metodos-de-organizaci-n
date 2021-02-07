@@ -1,10 +1,10 @@
 # Incremento del producto #
 
-+ [LINK VIDEO HU 1](https://drive.google.com/file/d/1SuzI8_dZpOv0jrTr6i-6b4-2cl1YND-z/view?usp=sharing)
-  + [DISEÑO HU 1](https://drive.google.com/file/d/1ef0VjlQhmWNubg34euyniG8BrdT4dLUh/view?usp=sharing)
-+ [LINK VIDEO HU 2](https://drive.google.com/file/d/1vU4TYOTCY6Q5A6SKU5idIQu3pfN7rGWL/view?usp=sharing)
-  + [DISEÑO HU 2](https://drive.google.com/file/d/178UC0WA85I5jvDZTRFgd5T8LyRt5hEI5/view?usp=sharing)
-+ [LINK VIDEO HU 3](https://drive.google.com/file/d/1jaUSAjR2C4KEqtvDj5kLnXEjLj5mQ04G/view?usp=sharing): 
++ [LINK VIDEO CU 1](https://drive.google.com/file/d/1SuzI8_dZpOv0jrTr6i-6b4-2cl1YND-z/view?usp=sharing)
+  + [DISEÑO CU 1](https://drive.google.com/file/d/1ef0VjlQhmWNubg34euyniG8BrdT4dLUh/view?usp=sharing)
++ [LINK VIDEO CU 2](https://drive.google.com/file/d/1vU4TYOTCY6Q5A6SKU5idIQu3pfN7rGWL/view?usp=sharing)
+  + [DISEÑO CU 2](https://drive.google.com/file/d/178UC0WA85I5jvDZTRFgd5T8LyRt5hEI5/view?usp=sharing)
++ [LINK VIDEO CU 3](https://drive.google.com/file/d/1jaUSAjR2C4KEqtvDj5kLnXEjLj5mQ04G/view?usp=sharing): 
   + [DISEÑO PARTE 1](https://drive.google.com/file/d/1FqPfBjExwI3cby7_5t7ozSS7Zp5J5BYN/view?usp=sharing)
   + [DISEÑO PARTE 2](https://drive.google.com/file/d/1ef0VjlQhmWNubg34euyniG8BrdT4dLUh/view?usp=sharing)
 
