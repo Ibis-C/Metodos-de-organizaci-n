@@ -106,5 +106,6 @@ Proceso:
 
 8-ENE-2021. Se reúne el equipo scrum y se hace la retrospectiva del sprint.
 
+[Índice](https://github.com/Ibis-C/Metodos-de-organizacion/blob/Entrega-Final/README.md#%C3%ADndice-scroll)
 
 
