@@ -76,6 +76,8 @@ M.O.C.E. Laura 	Carolina Sánchez Leal Responsable del departamento de Orientaci
 
 [Video Presentación Final 2](https://www.youtube.com/watch?v=bhgEax-9Ajw&feature=youtu.be)
 
+[Diapositivas Presentación Final](https://view.genial.ly/601ccc512e22130d3c7d22d0/presentation-final-presentation)
+
 **Reporte**
 
 [PDF](https://drive.google.com/file/d/163TTLMMWCVxch7Y9ThidSrmFA8S2MmMp/view?usp=sharing)
