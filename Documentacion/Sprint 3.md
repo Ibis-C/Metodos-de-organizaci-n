@@ -10,73 +10,101 @@
 
 ## ***Planificacion del sprint***
  
- [Tablas de horas de esfuerzo disponible]( https://drive.google.com/file/d/1oxnD7nseDvQLCNhAuxBhK2dI_AHxvUS1/view?usp=sharing)
+ [Tablas de horas de esfuerzo disponible](https://drive.google.com/file/d/16Fg7NE5VtfecOq-rSmm5dzcN9ppHyIkM/view?usp=sharing)
  
- [Product Backlog](https://drive.google.com/file/d/17GhrPTShaFgqlolK8mk0PJI6gLqNjU5q/view?usp=sharing)
+ [Product Backlog](https://drive.google.com/file/d/1H2Nw8MgWuW6Oq88fLPL24ZmYcOD6cCNU/view?usp=sharing)
 
 ESPECIFICACIONES:
 
-+ [Caso de uso 1](https://drive.google.com/file/d/1vU4TYOTCY6Q5A6SKU5idIQu3pfN7rGWL/view?usp=sharing)
-+ [Caso de uso 2](https://drive.google.com/file/d/1jaUSAjR2C4KEqtvDj5kLnXEjLj5mQ04G/view?usp=sharing)
-+ [Caso de uso 3](https://drive.google.com/file/d/1SuzI8_dZpOv0jrTr6i-6b4-2cl1YND-z/view?usp=sharing)
- 
++ [Caso de uso 13](https://drive.google.com/file/d/10rdPwZL9hjOwpYvIwylnoAfRX6S1Ct30/view?usp=sharing)
++ [Caso de uso 14](https://drive.google.com/file/d/1L4lmSdOAQBiUX-Y2kSpj63Kpe0YNSW1T/view?usp=sharing)
++ [Caso de uso 15](https://drive.google.com/file/d/1H_SDSkPCmp7cpkxp5Nzbtdqeuu9HBfZw/view?usp=sharing)
++ [Caso de uso 16](https://drive.google.com/file/d/1t-wwTsUfRT17kJq6yieJ1XyRV5PA3xNw/view?usp=sharing)
++ [Caso de uso 17](https://drive.google.com/file/d/1cbPaeAv19036pXWZV5cvE29cUXyl0Nh-/view?usp=sharing)
++ [Caso de uso 18](https://drive.google.com/file/d/1-Jb0GdZp1OUauged3qfVJkly4U-Kp7aV/view?usp=sharing)
++ [Caso de uso 19](https://drive.google.com/file/d/1Bl1z3XfkF1SD3BTVN4Ea3bB9Xayvx1wT/view?usp=sharing)
++ [Caso de uso 20](https://drive.google.com/file/d/1lqLP4MVLfIa4UGcQD01aV5Ox64mZDf3V/view?usp=sharing)
++ [Caso de uso 21](https://drive.google.com/file/d/1Wx77hi5pKBbk004Aoe1ZySv4GZviFuiO/view?usp=sharing)
++ [Caso de uso 22](https://drive.google.com/file/d/1ENsYPg36JOTDXJzKT51rb5oUDiM94RFN/view?usp=sharing)
++ [Caso de uso 23](https://drive.google.com/file/d/1T6QklypiQYyWFUVoapG_jfiAcqO8lKpG/view?usp=sharing)
++ [Caso de uso 24](https://drive.google.com/file/d/1I0KN1RdtYkpC5WIUFuHyDRnVaHXPM6IQ/view?usp=sharing)
+
+
 ## ***Ejecucion del Sprint***
 
-[Planificación de Ejecución del Sprint](https://drive.google.com/file/d/1qV6kPoerN_nXyyiCcBzMAv2NebS7cMte/view?usp=sharing)
+[Planificación de Ejecución del Sprint](https://drive.google.com/file/d/1AWpNbOPtCzz_q22eSrlTFM4MkkhDuMe9/view?usp=sharing)
 
-[Tabla de esfuerzo restante](https://drive.google.com/file/d/1-z7Cl_W9iVdW65ikNkAo7S0s8Rqf8eW1/view?usp=sharing)
+[Tabla de esfuerzo restante](https://drive.google.com/file/d/1TuFDKuEoLEgahHAWq_Az9Ttec0nd8zxO/view?usp=sharing)
 
-[Gráfica de la evolución del sprint](https://drive.google.com/file/d/1bWUvcaFtoYNJVnspYB_YdWwQHO1i5N15/view?usp=sharing)
+[Gráfica de la evolución del sprint](https://drive.google.com/file/d/13pUlaSdI9XtFPAH4buE4qGD_hZ6BEdoO/view?usp=sharing)
 
 ###### TABLERO KANBAN: 
 
-[Principio](https://drive.google.com/file/d/1llBKZlssU9h7pzlE_W4gbGDxmtlCsUgr/view?usp=sharing)
+[Principio](https://drive.google.com/file/d/1R9AfdL1biMCPkq5ptWkZ2pGizHR13EAc/view?usp=sharing)
 
-[Día 1](https://drive.google.com/file/d/1zi7bxZErBafRCMpEVFBEE-xHXbxvxiww/view?usp=sharing)
+[Día 1](https://drive.google.com/file/d/1XRPsZQKmV0tdMbzyaNtocGBVzjRMq-sl/view?usp=sharing)
 
-[Día 2](https://drive.google.com/file/d/1hb27rDr9QNX0pVRNU-oN8IMJNo32a0gM/view?usp=sharing)
+[Día 2](https://drive.google.com/file/d/1jhQY1kWDB3kAWzloBcHJDuY2HPnoudAR/view?usp=sharing)
 
-[Día 3](https://drive.google.com/file/d/111okE7wze1EjD6TEQnd1qIsRrBrVLTp_/view?usp=sharing)
+[Día 3](https://drive.google.com/file/d/1CABm4CLq_3VxuXVrehThtuEjPHJmUnAW/view?usp=sharing)
 
-[Día 4](https://drive.google.com/file/d/1m1WLeeOrYyDttkt9LfBE4nHKi6U57HR7/view?usp=sharing)
+[Día 4](https://drive.google.com/file/d/1CioK4lQr9-pE3ak5kI76fbPSH1iyTxGB/view?usp=sharing)
 
-[Fin](https://drive.google.com/file/d/14M0nAv_bl-l7y-hHFJFKAcof_Ikxr36j/view?usp=sharing)
+[Fin](https://drive.google.com/file/d/1Wu_ShLdDZDkv39Fu7xrCkBv2XdkyETp7/view?usp=sharing)
 
 
 ## ***Sprint review***
 
-[Resultado](https://drive.google.com/file/d/1E30iehLazeP_SIkc8rLH3IMgTh-IwPA3/view?usp=sharing)
+[Resultado](https://drive.google.com/file/d/1SKpSo6M1X76QlYfwvqK4oLnwZss7_4DI/view?usp=sharing)
 
 
 ## ***Sprint retrospective***
 
-[Resultado](https://drive.google.com/file/d/1CxMDurySZo_8wRuEvMkum4b1cm7FS2LQ/view?usp=sharing)
+[Resultado](https://drive.google.com/file/d/1Qdq4w32n1lN9N8OCqUTWrpNm-7VxOgAY/view?usp=sharing)
 
 ## ***Bitacora***
-28-NOV-2020: Reunión del equipo scrum (Product owner, scrum máster, y equipo de desarrollo). Se lleva a cabo la priorización y estimacion de las historias de usuario. Se acuerda que se pueden hacer 18 puntos de historia por sprint y se llega a una estimacion aproximado de que todo el product backlog estaría listo en 4 sprint y se agregan los casos de uso a cada historia de usuario. (Sprint de 7 días)
-Proceso: 
- +	La priorización es a cargo de product owner especificando que historias de usuario quiere ir desarrollando primero hasta la ultima y el product owner se encarga de escribir la priorización de cada historia de usuario usando el método MosCow.
- + La estimacion se lleva acabo usando el método planning poker.
- + El acuerdo de hacer 18 puntos de historia por sprint llego después de tener la estimacion de las historias de usuario, y ver a grandes rasgos que las primeras 3 historias de usuario se podían hacer en un sprint sin problema, lo cual nos da un puntaje de 18 historias de usuario por sprint.
-    
-29-DIC-2020: Comienza el Sprint 1. Reunión de scrum master y equipo de desarrollo para llevar a cabo el sprint plannig. Se llega al acuerdo de hacer las primeras 3 historias de usuario, se obtiene el sprint backlog, se hace el compromiso con el product owner y se hace la especificación de los casos de uso de las historias de usuario a desarrollar.
-Proceso:
-   + Creación de tabla de horas de esfuerzo: 25-60 horas para todo el sprint. 
-   +	Se hace la división tareas por historia de usuario y cada tarea se le asigna en horas en cuanto tiempo se terminará y se hace la suma total de todas las horas, que da un total de 27 horas, por lo cual está dentro del rango de las horas de esfuerzo que tenemos por sprint.
-   + La tabla se vuelve nuestro sprint backlog.
-   
-30-DIC-2020: Inicio de la ejecución del sprint. Se reúne el scrum máster con el equipo de desarrollo se hace el análisis de las herramientas a utilizar y se realiza la planificación de la ejecución del sprint.
+21-ENE-2021
+Equipo scrum se reúne y se hace el sprint planning del sprint 3. Se seleccionan las historias de usuario 7, 8, 9, 10, 11 y 12. Se cambia la tabla de esfuerzo que en el primer sprint. Se dividen las HU en tareas, se le asigna un tiempo de esfuerzo y se obtiene el producto backlog.
 
-   + La planificación del sprint es que tareas se pueden hacer cada día, que tareas hará cada desarrollador, cuales se pueden hacer en paralelo y que tareas se necesitan hacer cada día para acabar en tiempo y forma.
+22-ENE-2021
+Scrum máster y equipo de desarrollo realizan la planificación de la ejecución del sprint y se comienza a poner las tares que se tienen que hacer en el tablero Kanban. Este día también se comienza las tareas. (diseño, desarrollo, testeo)
 
-04-ENE-2021: reunión con product owner, scrum máster y la diseñadora. Se muestra el diseño completado y el product owner lo valida. Se hace la reunión diaria. 
+25-ENE-2021.
+Se tiene la primera reunión diaria del sprint, se comenta las tareas realizadas y las que se trabajaran este día. Toda va bien de acuerdo con la planificación de la ejecución.
 
-05-ENE-2021: Se hace la reunión diaria con el equipo de desarrollo y scrum máster.
+26-ENE-2021
+Se tiene la segunda reunión diaria del sprint, se comentan las tareas realizadas y las que se trabajaran este día. Todo va bien de acuerdo con la planificación de la ejecución. 
 
-06-ENE-2021: Se hace reunión diaria con el equipo de desarrollo y scrum máster.
+27-ENE-2021
+Se tiene la tercera reunión diaria del sprint, se comentan las tareas realizadas y las que se trabajaran este día. Todo va bien de acuerdo con la planificación de la ejecución. 
 
-07-ENE-2021: Se hace reunión diaria con el equipo y scrum máster. Este mismo día se hace la reunión de la revisión del sprint con el equipo scrum e invitados.
+28-ENE-2021
+Se tiene la cuarta reunión diaria del sprint, se concluye con las tareas y el tablero Kanban muestra todas las tareas finalizadas, este mismo se tiene la revisión del sprint con todo el equipo scrum e invitados. Al tener el producto finalizado se hablo de todo lo bueno del producto y aquello en que pudo mejorar.
 
-8-ENE-2021. Se reúne el equipo scrum y se hace la retrospectiva del sprint.
+29-ENE-2021
+Se reúne el equipo y se hace la retrospectiva del sprint, en esta junta comentamos sobre cómo fue emplear scrum en todo el proyecto, como fuimos mejorando y que podríamos mejorar suponiendo que el proyecto seguiría.
+
+FINAL DE BITACORA DE TRABAJO EN SCRUM.
+
+### BITACORA ENTREGA FINAL
+01-FEB-2021
+Se dividen las tareas que se necesitan hacer para la entrega final. Pendiente revisar los avances al día siguiente.
+
+02-FEB-2021
+Se revisan los avances de cada uno y todo va en buena forma, pendiente seguir revisando los avances al día siguiente.
+
+03-FEB-2021
+Se revisan los avances de cada uno y todo va en buena forma. Pendiente grabar presentación Final.
+
+04-FEB-2021
+Se graba la presentación final, cada uno siguen con sus actividades. Pendiente subir video a YouTube.
+
+05-FEB-2021
+Hubo un problema y no se pudo subir el video. Se hacen las revisiones finales de todas las actividades y se observan detalles. Pendiente corregir detalles, subir video y contenido en GitHub.
+
+06-FEB-2021
+Se sube el video, se hacen las revisiones de todas las actividades, se guarda todo en el repositorio y se finaliza el proyecto.
+
+
 
 [Índice](https://github.com/Ibis-C/Metodos-de-organizacion/blob/Entrega-Final/README.md#%C3%ADndice-scroll)
