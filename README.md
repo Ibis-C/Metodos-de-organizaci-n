@@ -43,7 +43,7 @@ M.O.C.E. Laura 	Carolina Sánchez Leal Responsable del departamento de Orientaci
 2.[Herramientas y metodos](https://github.com/Ibis-C/Metodos-de-organizacion/blob/Entrega-Final/Documentacion/2.%20Herramientas%20y%20métodos.md#herramientas-y-métodos "Herramientas y metodos")
 
 
-3.[istorias de usuario, casos de uso y requerimientos](https://github.com/Ibis-C/Metodos-de-organizacion/blob/Entrega-Final/Documentacion/3.%20Historias%20de%20usuario%20y%20requerimientos%20no%20funcionales.md "Historias de usuario y requerimientos")
+3.[Historias de usuario, casos de uso y requerimientos no funcionales](https://github.com/Ibis-C/Metodos-de-organizacion/blob/Entrega-Final/Documentacion/3.%20Historias%20de%20usuario%20y%20requerimientos%20no%20funcionales.md "Historias de usuario y requerimientos")
 
 4.[Roles y procesos de trabajo](https://github.com/Ibis-C/Metodos-de-organizacion/blob/Entrega-Final/Documentacion/4.%20Roles%20y%20proceso%20de%20trabajo.md#proceso-de-trabajo "Roles y procesos de trabajo")
 
