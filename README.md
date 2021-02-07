@@ -72,6 +72,21 @@ M.O.C.E. Laura 	Carolina Sánchez Leal Responsable del departamento de Orientaci
 
 [Sprint 3](https://github.com/Ibis-C/Metodos-de-organizacion/blob/Entrega-Final/Documentacion/Sprint%203.md#incremento-del-producto)
 
+[Video Presentación 1](https://www.youtube.com/watch?v=YnCh3m8OVhI&feature=youtu.be)
+
+[Video Presentación 2](https://www.youtube.com/watch?v=bhgEax-9Ajw&feature=youtu.be)
+
+**Reporte**
+
+[PDF](https://drive.google.com/file/d/163TTLMMWCVxch7Y9ThidSrmFA8S2MmMp/view?usp=sharing)
+
+[Documento en línea](https://docs.google.com/document/d/1dH0mGN-dgPjgjv7Lc3s9dGK8R47kA7iAj8U0XFTuD6c/edit)
+
+**Póster**
+
+[Póster](https://drive.google.com/file/d/1TtnJgsyq3ZyXOKdmUZiKbB8bBKoWZqfH/view?usp=sharing)
+
+
 
 
 
