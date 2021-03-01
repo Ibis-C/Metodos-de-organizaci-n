@@ -1,8 +1,7 @@
 :shipit:
 
-# Métodos de organización :notebook: 
 
-# CREADO POR ALUMNOS DE LA INGENIERIA EN SOFTWARE DE LA UMT
+# Métodos de organización :notebook: 
 
 ## Autores :pencil:
 * **Ibis Carrillo Araujo** - [@Ibis-C](https://github.com/Ibis-C "@Ibis-C")
