@@ -1,6 +1,6 @@
 :shipit:
 
-## *GITHUB. PROYECTO CREADO POR ALUMNOS DE INGENIERIA EN SOFTWARE DE LA UMT*
+
 # Métodos de organización :notebook: 
 
 ## Autores :pencil:
